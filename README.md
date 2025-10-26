@@ -1,7 +1,10 @@
 # City Transportation Network Optimization - MST Analysis
 
 **Assignment 3**: Design and Analysis of Algorithms  
-**Topic**: Minimum Spanning Tree Algorithms
+**Topic**: Minimum Spanning Tree Algorithms | **Author**: Saparbekov Nurdaulet, SE-2402
+
+
+
 
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Maven](https://img.shields.io/badge/Maven-4.0+-blue.svg)](https://maven.apache.org/)
@@ -114,12 +117,6 @@ DAA-Assignment3/
 ---
 
 ## Installation & Setup
-
-### Prerequisites
-
-- **Java 17** or higher ([Download](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html))
-- **Maven 3.8+** ([Download](https://maven.apache.org/download.cgi))
-- **Git** ([Download](https://git-scm.com/downloads))
 
 ### Clone Repository
 
